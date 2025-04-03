@@ -1,1 +1,1 @@
-# KnightCourtChess.github.io
+# KnightCourtChess
